@@ -1,0 +1,1 @@
+01 * * * *  /home/jc/Documents/shell-exe/Job8/get_logs.sh
