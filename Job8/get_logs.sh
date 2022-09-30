@@ -8,3 +8,4 @@ cd /home/jc/Documents/shell-exe/Job8
 rm number_connection-*
 
 last -f /var/log/wtmp | grep $USER | wc -l > number_connection-'29-09-2022-14:58'
+tar -uvf Backup/log.tar number_connection-29-09-2022-14:58
